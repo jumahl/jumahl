@@ -5,7 +5,7 @@
 ### Estadísticas 📢
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jumahl&show_icons=true&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api?username=jumahl&show_icons=true&theme=dark" />
 
 </p>
 
