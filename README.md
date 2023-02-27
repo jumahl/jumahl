@@ -5,8 +5,12 @@
 ### Estadísticas 📢
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jumahl_icons=true&theme=radical" height="150px" alt="Estadística de usos de lenguaje de Juan">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jumahl" height="150px" alt="Estadística de Github Profile de Juan">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 </p>
 
 <p align="left">
