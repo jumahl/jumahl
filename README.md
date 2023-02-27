@@ -6,7 +6,7 @@
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=jumahl&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jumahl&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jumahl" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumahl&langs_count=10&layout=compact&theme=radical" />
 
 </p>
