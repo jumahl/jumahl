@@ -32,5 +32,5 @@
 </p>  
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jevmydev&style=flat&color=dd6387" alt="Estadística de visitas del perfil de Jeremy Díaz"> 
+  <img src="https://komarev.com/ghpvc/?username=jevmydev&style=flat&color=dd6387" alt="Estadística de visitas del perfil de Juan"> 
 </p>
