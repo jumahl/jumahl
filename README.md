@@ -5,8 +5,8 @@
 ### Estadísticas 📢
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jevmydev" height="150px" alt="Estadística de usos de lenguaje de Juan">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jevmydev" height="150px" alt="Estadística de Github Profile de Juan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jumahl" height="150px" alt="Estadística de usos de lenguaje de Juan">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jumahl" height="150px" alt="Estadística de Github Profile de Juan">
 </p>
 
 <p align="left">
