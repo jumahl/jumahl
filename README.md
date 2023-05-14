@@ -14,5 +14,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jumahl&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumahl&langs_count=9&layout=compact&theme=radical" />
 </p>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jumahl&show_icons=true&locale=en&layout=compact" alt="jumahl" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jumahl&show_icons=true&locale=en" alt="jumahl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumahl&" alt="jumahl" /></p>
+
+
 
