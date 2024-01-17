@@ -18,10 +18,3 @@ Hi there, I'm Juan 👋<br>Software Development student and I like cybersecurity
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumahl&langs_count=9&layout=compact&theme=radical" alt="jumahl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jumahl&show_icons=true&theme=radical" /></p>
-
-
-
-
